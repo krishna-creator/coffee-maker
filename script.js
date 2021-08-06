@@ -19,7 +19,7 @@ function s() {
     alert("complete the coffee☕☕☕");
   }
 }
-function emptyThecup() {
+function emptyTheCup() {
   if (coffeeStatus == "Y") {
     console.log("hey");
     cup.classList.remove("cup");
