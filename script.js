@@ -21,7 +21,6 @@ function s() {
 }
 function emptyTheCup() {
   if (coffeeStatus == "Y") {
-    console.log("hey");
     cup.classList.remove("cup");
     cup.classList.add("drink");
     coffee.classList.remove("coffee");
